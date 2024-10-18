@@ -4,7 +4,7 @@ import UserList from './Components/UserData';
 
 const App = () => {
   return (
-    <div><UserList/></div>
+    <div style={{display:"flex", justifyContent:"center"}}><UserList/></div>
   )
 }
 
